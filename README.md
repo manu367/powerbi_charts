@@ -47,17 +47,19 @@ A custom Power BI visual built from scratch to extend reporting and dashboard ca
 
 ## Project Structure
 
+```plaintext
 my-custom-visual/
-│── .tmp/              # Temporary build files (ignored in git)
-│── dist/              # Final packaged visual
-│── node_modules/      # Dependencies
-│── .vscode/           # Editor settings
-│── capabilities.json  # Defines visual capabilities
-│── visual.ts          # Main logic for rendering
-│── visualSettings.ts  # Custom settings
-│── pbiviz.json        # Config for packaging
-│── package.json       # Dependencies & scripts
-│── README.md          # Documentation
+|- .tmp/             # Temporary build files (ignored in git)
+|-- dist/             # Final packaged visual
+|-- node_modules/     # Dependencies
+├── .vscode/          # Editor settings
+├── capabilities.json # Defines visual capabilities
+├── visual.ts         # Main logic for rendering
+├── visualSettings.ts # Custom settings
+├── pbiviz.json       # Config for packaging
+├── package.json      # Dependencies & scripts
+└── README.md         # Documentation
+
 
 ## How I Built This (Step by Step)
 
