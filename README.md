@@ -59,7 +59,7 @@ my-custom-visual/
 ├── pbiviz.json       # Config for packaging
 ├── package.json      # Dependencies & scripts
 └── README.md         # Documentation
-
+```
 
 ## How I Built This (Step by Step)
 
