@@ -1,6 +1,7 @@
 # Power BI Custom Visual 📊
 A custom Power BI visual built from scratch to extend reporting and dashboard capabilities.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W_DhmQ6_Uyw?si=m0Ja8jsOjLFn12T5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/06d7bdae-55f7-46a6-947b-2a48fef5bfe7" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3a223ddb-aa1f-4652-ba9b-8e428e06166d" />
