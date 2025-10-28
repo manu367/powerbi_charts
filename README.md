@@ -1,7 +1,11 @@
 # Power BI Custom Visual 📊
 A custom Power BI visual built from scratch to extend reporting and dashboard capabilities.
 
-[![Watch the video](https://img.youtube.com/vi/W_DhmQ6_Uyw/0.jpg)](https://www.youtube.com/watch?v=W_DhmQ6_Uyw)
+### Watch Demo Project Video
+<video width="640" height="360" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/06d7bdae-55f7-46a6-947b-2a48fef5bfe7" />
