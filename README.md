@@ -3,7 +3,7 @@ A custom Power BI visual built from scratch to extend reporting and dashboard ca
 
 ### Watch Demo Project Video
 <video width="640" height="360" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
+  <source src="https://overview-de7aa.web.app/assests/power.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
